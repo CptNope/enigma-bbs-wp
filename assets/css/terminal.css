@@ -1,0 +1,7 @@
+#terminal {
+  background: black;
+  color: lime;
+  height: 500px;
+  padding: 10px;
+  font-family: monospace;
+}
